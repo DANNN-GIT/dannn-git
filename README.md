@@ -1,16 +1,23 @@
-### Hi there 👋
+## AHMAD WILDAN (WEB DEVELOPER & CONTENT WRITER)
 
-<!--
-**DANNN-GIT/dannn-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### RINGKASAN
 
-Here are some ideas to get you started:
+*"Mahasiswa (aktif) Politeknik Negeri Jember prodi D4-Teknik Informatika. Memiliki peran dalam bidang programming dan content writing. Berprofesi sebagai freelance penulis artikel SEO dan pengembang website, pekerja keras, mampu bekerja secara individu maupun tim, antusias dan bermotivasi tinggi dengan kemampuan dalam bidang IT, dan bercita-cita menjadi full stack web developer."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### KETERAMPILAN
+
+* HTML
+* CSS
+* Javascript
+* PHP
+* MySQL
+* Laravel
+* Bootstrap
+* Microsoft Ofce Word
+* Microsoft Ofce PowerPoint
+* Microsoft Ofce Excel
+* Content Writer
+* Pemasaran Digital
+* MatLab
+* GIT & GitHub
+* Yoast SEO
